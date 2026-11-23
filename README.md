@@ -29,4 +29,4 @@ TypeScript, Next.js, React, Supabase (Postgres and PostGIS), Tailwind, Vercel, M
 
 ### Find me
 
-[X @TheFinalRoss](https://x.com/TheFinalRoss) · [LinkedIn](https://www.linkedin.com/in/johnrossbuilds) · open to forward deployed engineer roles
+[X @TheFinalRoss](https://x.com/TheFinalRoss) · [LinkedIn](https://www.linkedin.com/in/johnrossbuilds) 
