@@ -10,9 +10,10 @@ I build software by sitting with the people who use it, then shipping what works
 
 | Project | What it is | Where it runs |
 |---|---|---|
-| **EIQ** | Absence and leave claims software for an enterprise insurer. Team of one: product, build and the customer relationship | Enterprise insurance |
 | **Helm** | Restaurant operations: invoices, ordering, recipes and costing | Live at a working restaurant in Maine |
 | **[Ringmaster](https://ringmaster-demo.vercel.app)** | Indie wrestling data: where shows have run, which venues fit, who is free on your date | Built with a Maine promoter |
+| **Slate** | NFL betting dashboard: every game, line and best bet on one screen | Used by friends every week of the season |
+| **Resume Builder** | Turns your experience into a tailored resume for each job | Built for my own job search |
 | **Agent pipeline** | Tickets go in, AI agents build, a second model reviews, CI and guardrails gate production | Runs my own projects day and night |
 
 ### How I work
