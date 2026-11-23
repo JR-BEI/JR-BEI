@@ -4,12 +4,13 @@
 
 **Every rollout has a final boss. I'm who you send in.**
 
-I build software by sitting with the people who use it, then shipping what works on site. Before I wrote code, I was a claims examiner, so I know what it's like to use software built by people who never did the job.
+I build software by sitting with the people who use it, then shipping what works on site. I was a claims examiner before I wrote code, and now I build claims software for an enterprise insurer, so I know both sides of the screen.
 
 ### What I'm building
 
 | Project | What it is | Where it runs |
 |---|---|---|
+| **Claims software** | Absence and leave claims tools for an enterprise insurer. Team of one: product, build and the customer relationship | Enterprise insurance (private) |
 | **Helm** | Restaurant operations: invoices, ordering, recipes and costing | Live at a working restaurant in Maine |
 | **[Ringmaster](https://ringmaster-demo.vercel.app)** | Indie wrestling data: where shows have run, which venues fit, who is free on your date | Built with a Maine promoter |
 | **Slate** | NFL betting dashboard: every game, line and best bet on one screen | Used by friends every week of the season |
